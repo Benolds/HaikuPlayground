@@ -21,6 +21,8 @@ haiku_inspiration_tiles.swf
 ---------------------------
 Open the .swf file or the .html file to run the "game"
 
+![Haiku Inspiration Tiles screenshot](/haiku_inspiration_tiles/screenshot.png)
+
 The dictionary of words and frequencies used has been extracted from Jane’ Reichhold’s “A Dictionary of Haiku” http://www.ahapoetry.com/aadoh/adofinde.htm, and can be viewed in Utils/haiku_dictionary_reduced.txt
 
 Code can be examined by opening Utils/main_timeline_code.txt, or by opening the .fla file and viewing the Actions for Frame 1, as well as Tile.as
